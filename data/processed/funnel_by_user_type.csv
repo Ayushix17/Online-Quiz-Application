@@ -1,0 +1,9 @@
+step,count,user_type
+sessions,1399,new
+view,1399,new
+add_to_cart,332,new
+purchase,123,new
+sessions,122,returning
+view,122,returning
+add_to_cart,66,returning
+purchase,53,returning
